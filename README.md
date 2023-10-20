@@ -14,5 +14,5 @@ and at the same time ensure that the data would be taken care of for all the yea
 I've started this idea some years ago and have done some work in https://github.com/terjetopland/Merke, but I would like to do it over and use Java as backend.
 
 ## Languages
-Java - backend\
+Java - backend/n
 React Typescript(tsx) - frontend
